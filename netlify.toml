@@ -1,7 +1,0 @@
-[build]
-  publish = "."
-
-[[redirects]]
-  from = "/sitemap.xml"
-  to = "/public/sitemap.xml"
-  status = 200
